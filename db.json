@@ -1,7 +1,8 @@
 
-
-  [
+  {
+    "dati":[
     {
+      "id":"1",
       "Nome": "Mario",
       "Cognome": "Rossi",
       "Indirizzo": "Via Roma 123",
@@ -48,4 +49,4 @@
     }
   ]
   
-  
+  }
