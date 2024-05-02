@@ -7,8 +7,8 @@
       "Indirizzo": "Via Roma 123",
       "Telefono": "333-1234567",
       "Email": "mario.rossi@example.com",
-      "Data Prenotazione": "2024-05-02",
-      "Ora Prenotazione": "15:30"
+      "DataPrenotazione": "2024-05-02",
+      "OraPrenotazione": "15:30"
     },
     {
       "Nome": "Giulia",
@@ -16,8 +16,8 @@
       "Indirizzo": "Via Milano 456",
       "Telefono": "333-7654321",
       "Email": "giulia.verdi@example.com",
-      "Data Prenotazione": "2024-05-03",
-      "Ora Prenotazione": "10:00"
+      "DataPrenotazione": "2024-05-03",
+      "OraPrenotazione": "10:00"
     },
     {
       "Nome": "Luca",
@@ -25,8 +25,8 @@
       "Indirizzo": "Via Napoli 789",
       "Telefono": "333-9876543",
       "Email": "luca.bianchi@example.com",
-      "Data Prenotazione": "2024-05-04",
-      "Ora Prenotazione": "14:00"
+      "DataPrenotazione": "2024-05-04",
+      "OraPrenotazione": "14:00"
     },
     {
       "Nome": "Anna",
@@ -34,8 +34,8 @@
       "Indirizzo": "Via Torino 101",
       "Telefono": "333-2345678",
       "Email": "anna.russo@example.com",
-      "Data Prenotazione": "2024-05-05",
-      "Ora Prenotazione": "11:30"
+      "DataPrenotazione": "2024-05-05",
+      "OraPrenotazione": "11:30"
     },
     {
       "Nome": "Paolo",
@@ -43,8 +43,8 @@
       "Indirizzo": "Via Firenze 202",
       "Telefono": "333-8765432",
       "Email": "paolo.ferrari@example.com",
-      "Data Prenotazione": "2024-05-06",
-      "Ora Prenotazione": "16:45"
+      "DataPrenotazione": "2024-05-06",
+      "OraPrenotazione": "16:45"
     }
   ]
   
