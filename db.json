@@ -44,51 +44,6 @@
       "Email": "paolo.ferrari@example.com",
       "Data Prenotazione": "2024-05-06",
       "Ora Prenotazione": "16:45"
-    },
-    {
-      "Nome": "Elena",
-      "Cognome": "Martini",
-      "Indirizzo": "Via Venezia 303",
-      "Telefono": "333-6543219",
-      "Email": "elena.martini@example.com",
-      "Data Prenotazione": "2024-05-07",
-      "Ora Prenotazione": "09:15"
-    },
-    {
-      "Nome": "Giovanni",
-      "Cognome": "Conti",
-      "Indirizzo": "Via Bologna 404",
-      "Telefono": "333-9876123",
-      "Email": "giovanni.conti@example.com",
-      "Data Prenotazione": "2024-05-08",
-      "Ora Prenotazione": "13:20"
-    },
-    {
-      "Nome": "Sara",
-      "Cognome": "Galli",
-      "Indirizzo": "Via Genova 505",
-      "Telefono": "333-3456789",
-      "Email": "sara.galli@example.com",
-      "Data Prenotazione": "2024-05-09",
-      "Ora Prenotazione": "14:45"
-    },
-    {
-      "Nome": "Marco",
-      "Cognome": "Barbieri",
-      "Indirizzo": "Via Palermo 606",
-      "Telefono": "333-8765432",
-      "Email": "marco.barbieri@example.com",
-      "Data Prenotazione": "2024-05-10",
-      "Ora Prenotazione": "11:00"
-    },
-    {
-      "Nome": "Laura",
-      "Cognome": "Ferrara",
-      "Indirizzo": "Via Catania 707",
-      "Telefono": "333-9876543",
-      "Email": "laura.ferrara@example.com",
-      "Data Prenotazione": "2024-05-11",
-      "Ora Prenotazione": "15:00"
     }
   ]
   
