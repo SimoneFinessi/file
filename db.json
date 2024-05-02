@@ -23,11 +23,11 @@
     },
     {
       "id":3,
-      "Nome": "Luca",
-      "Cognome": "Bianchi",
-      "Indirizzo": "Via Napoli 789",
+      "Nome": "Riccardo",
+      "Cognome": "Lototortolo",
+      "Indirizzo": "Via Napoli cogl",
       "Telefono": "333-9876543",
-      "Email": "luca.bianchi@example.com",
+      "Email": "cogl.ione@example.com",
       "DataPrenotazione": "2024-05-04",
       "OraPrenotazione": "14:00"
     },
