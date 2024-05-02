@@ -2,7 +2,7 @@
   {
     "dati":[
     {
-      "id":"1",
+      "id":1,
       "Nome": "Mario",
       "Cognome": "Rossi",
       "Indirizzo": "Via Roma 123",
@@ -12,6 +12,7 @@
       "OraPrenotazione": "15:30"
     },
     {
+      "id":2,
       "Nome": "Giulia",
       "Cognome": "Verdi",
       "Indirizzo": "Via Milano 456",
@@ -21,6 +22,7 @@
       "OraPrenotazione": "10:00"
     },
     {
+      "id":3,
       "Nome": "Luca",
       "Cognome": "Bianchi",
       "Indirizzo": "Via Napoli 789",
@@ -30,6 +32,7 @@
       "OraPrenotazione": "14:00"
     },
     {
+      "id":4,
       "Nome": "Anna",
       "Cognome": "Russo",
       "Indirizzo": "Via Torino 101",
@@ -39,6 +42,7 @@
       "OraPrenotazione": "11:30"
     },
     {
+      "id":5,
       "Nome": "Paolo",
       "Cognome": "Ferrari",
       "Indirizzo": "Via Firenze 202",
