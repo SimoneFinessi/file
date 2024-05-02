@@ -1,5 +1,6 @@
 
-  [
+  {
+    "dati":[
     {
       "Nome": "Mario",
       "Cognome": "Rossi",
@@ -47,4 +48,4 @@
     }
   ]
   
-
+  }
